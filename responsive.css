@@ -1,0 +1,26 @@
+@media (max-width:500px) {
+    #btn1{
+        width: 50%;
+    }
+    #card1{
+        display: block;
+    }
+     #img3{
+        height: 100%;
+        width: 100%;
+     }
+     #img6{
+        width: 90%;
+        height: 100%;
+     }
+     #section2{
+        margin-top: 0%;
+     }
+     #section1{
+        margin-top: 3%;
+     }
+     #footer1{
+      width: 80%;
+      
+     }
+}
